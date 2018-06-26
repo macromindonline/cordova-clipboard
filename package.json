@@ -1,5 +1,5 @@
 {
-  "_from": "git+https://github.com/ibnclaudius/CordovaClipboard.git",
+  "_from": "git+https://github.com/macromindonline/cordova-clipboard.git",
   "_id": "cordova-clipboard@0.1.0",
   "_inBundle": false,
   "_integrity": "",
@@ -7,19 +7,18 @@
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "https://github.com/ibnclaudius/CordovaClipboard.git",
-    "rawSpec": "https://github.com/ibnclaudius/CordovaClipboard.git",
-    "saveSpec": "git+https://github.com/ibnclaudius/CordovaClipboard.git",
-    "fetchSpec": "https://github.com/ibnclaudius/CordovaClipboard.git",
+    "raw": "https://github.com/macromindonline/cordova-clipboard.git",
+    "rawSpec": "https://github.com/macromindonline/cordova-clipboard.git",
+    "saveSpec": "git+https://github.com/macromindonline/cordova-clipboard.git",
+    "fetchSpec": "https://github.com/macromindonline/cordova-clipboard.git",
     "gitCommittish": null
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "git+https://github.com/ibnclaudius/CordovaClipboard.git#a27b871795ce8e10feacb2403347599116832fd6",
-  "_spec": "https://github.com/ibnclaudius/CordovaClipboard.git",
-  "_where": "/Users/guilhermefilippo/ParceiroCard/Apps/parceirocard_demo",
+  "_resolved": "git+https://github.com/macromindonline/cordova-clipboard.git#a27b871795ce8e10feacb2403347599116832fd6",
+  "_spec": "https://github.com/macromindonline/cordova-clipboard.git",
   "author": "",
   "bugs": {
     "url": "https://github.com/VersoSolutions/CordovaClipboard/issues"
@@ -53,7 +52,7 @@
   "name": "cordova-clipboard",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VersoSolutions/CordovaClipboard.git"
+    "url": "git+https://github.com/macromindonline/cordova-clipboard.git"
   },
   "version": "0.1.0"
 }
